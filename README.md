@@ -29,7 +29,7 @@ This is a simple BMI (Body Mass Index) calculator web application built using HT
 
 ### Backend Deployment
 
-Further deployment has been handled by Ravinder, a PhD scholar in the Biomedical Department at IIT Ropar.
+Further deployment has been handled by Ravinder Kumar, a PhD scholar in the Biomedical Department at IIT Ropar.
 
 ### Authors
 
