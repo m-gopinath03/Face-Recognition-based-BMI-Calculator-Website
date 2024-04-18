@@ -1,6 +1,6 @@
 # Face-Recognition-based-BMI-Calculator-Website
 
-## BMI Calculator Web App
+## BMI Calculator Website
 
 This is a simple BMI (Body Mass Index) calculator web application built using HTML, CSS, and JavaScript. It allows users to input their age, gender, height, and weight, and calculates their BMI accordingly.
 
